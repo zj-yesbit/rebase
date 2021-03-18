@@ -21,9 +21,7 @@ spring:
     url: jdbc:mysql://52.204.184.252:3306/swapall
     username: ram
     password: qaz135
-  cache:
-    ehcache:
-      config: classpath:/ehcache.xml
+
 
 
 
