@@ -1,0 +1,7 @@
+sato:
+  sato.tokenAddress: 0x58FF315B5D31529071E27C2d252684052b7D5f21
+  sato.monetaryPolicy: 0x4961D2A0180997e5CcDa5f68870598D9C336487A
+  sato.orchestrator: 0x80Cc94B6b3154BfdeB1B4382853E27b82B09d45c
+  sato.marketOracle: 0x78aFF0bE761a1cF71fC3F0958dD78eD618DBcb5c
+  sato.Provider: 0x0;
+  sato.providerKey: abc;

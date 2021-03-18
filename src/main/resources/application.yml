@@ -1,0 +1,31 @@
+
+## Server Properties
+server:
+  port: 8080
+  compression:
+    enabled: true
+  error:
+    include-message: always
+    include-binding-errors: always
+
+## test Database
+
+spring:
+  mvc:
+    async:
+      request-timeout: 2000
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://52.204.184.252:3306/swapall
+    username: ram
+    password: qaz135
+  cache:
+    ehcache:
+      config: classpath:/ehcache.xml
+
+
+
+
+
